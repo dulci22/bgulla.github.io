@@ -1,0 +1,6 @@
+---
+published: true
+title: post_init
+layout: post
+---
+hello world

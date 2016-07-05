@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://bgulla.github.io
+title: DevOops`in
+tagline: Computer buggin, debuggin, and vice versa.
+description: My awesome new site
+paginate: 5
